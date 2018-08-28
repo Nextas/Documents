@@ -9,3 +9,5 @@ https://github.com/Nextas/Documents/blob/master/Behavior_Tree.pdf
 https://github.com/Nextas/documents/blob/master/Addison.Wesley.Effective.CPP.3rd.Edition.May.2005.pdf
 ## Effective Modern Cpp 42 Specific Ways
 https://github.com/Nextas/documents/blob/master/Effective.Modern.Cpp.42.Specific.Ways.to.Improve.Your.Use.of.Cpp11.and.Cpp14.pdf
+## Multiple View Geometry
+Multiple View Geometry in Computer Vision (Second Edition)
