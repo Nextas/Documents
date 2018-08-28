@@ -1,4 +1,4 @@
-# references
+# References
 ## google c++ style guide
 https://google.github.io/styleguide/cppguide.html
 ## 2013 Stroustrup - The C++ Programming Language 4th Edition
